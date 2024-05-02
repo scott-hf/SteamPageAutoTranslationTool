@@ -13,9 +13,11 @@ develop-eggs/
 dist/
 downloads/
 exports/
-temp/
+temp/*
 source/storepage_base.json
 source/appname_base.json
+source/*
+source/*
 eggs/
 .eggs/
 lib/

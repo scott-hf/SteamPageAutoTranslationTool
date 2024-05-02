@@ -1,7 +1,8 @@
 @echo off
 echo Have you placed storepage_base.json and appname_base.json into the source folder? 
-set /p ready="Press any key when ready"
+set /p ready="Press enter/return when ready"
+mkdir temp
 python translateStorePages.py
 python translateStoreNames.py
 
-set /p ready="Done"
+set /p ready="Done. Press enter to close this window"
