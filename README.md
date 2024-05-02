@@ -11,6 +11,8 @@ These translations are SUBPAR AT BEST. It uses a python library from google call
 
 Here's how you can use this tool:
 
+**This project does require you to have python installed**
+
 1. The first step is to navigate to the steam partner portal and go to the Steamworks admin page and Store admin page so we can download your base translation files.
 
 ![1](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/64b94049-292f-4a02-9360-37ee995e1317)
