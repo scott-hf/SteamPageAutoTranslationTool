@@ -1,4 +1,4 @@
-# Steamy Polyglot Pixie
+# SteamPageAutoTranslationTool (Steamy Polyglot Pixie)
  A Steam store page auto translation tool
 
 This project is intended to be for solo or a small team of indie developers to help with rough english->*** translations. According to some of the data and reports from the Chris Zukowski & the HTMAG community, having translated store pages/names can help increase visibility of your steam products.
