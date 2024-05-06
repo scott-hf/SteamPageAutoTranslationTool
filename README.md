@@ -42,8 +42,10 @@ now you will find the exported files in the "export" folder. it's time to bring 
 ![44](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/8d1e25b3-adde-4f21-869f-5465c58bd3e7)
 
 
-5. upload the contents of exports/storepage to Store Admin page
+5. upload the contents of exports/storepage to Store Admin page*
 ![5](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/cdbfd2df-3372-42b3-a6a4-6261095c7593)
+
+*=Sometimes i've noticed you have to upload these translation files one a time for the store page.
 
 And that's it. You're done!
 
