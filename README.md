@@ -1,7 +1,26 @@
 # SteamPageAutoTranslationTool (Steamy Polyglot Pixie)
  A Steam store page auto translation tool
 
-This project is intended to be for solo or a small team of indie developers to help with rough english->*** translations. According to some of the data and reports from the Chris Zukowski & the HTMAG community, having translated store pages/names can help increase visibility of your steam products.
+This project is intended to be for solo or a small team of indie developers to help with steam page store translations. According to some of the data and reports from the Chris Zukowski & the HTMAG community, having translated store pages/names can help increase visibility of your steam products.
+
+This tool takes one translation json file from steam and converts it automatically to all other store page languages. It uses Google Translator python library.
+
+**Short Tutorial:**
+
+1. Download this zip/repo
+2. Download your translation json files and place them in the "source" directory
+3. Run translateEverything.bat
+4. Upload JSON files
+5. ??? profit
+
+![33](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/009993dc-e5cd-40f0-8cfb-62783a1ab69f)
+
+![44](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/8d1e25b3-adde-4f21-869f-5465c58bd3e7)
+
+![5](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/cdbfd2df-3372-42b3-a6a4-6261095c7593)
+
+
+**Full Tutorial:**
 
 NOTE: I have only used and tested this with NEW projects that have yet to be approved by steam. I'm not sure how to apply changes like this to an existing app via the "Steamworks Admin" page once it has already been approved
 
