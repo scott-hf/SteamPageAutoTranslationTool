@@ -1,72 +1,32 @@
-# SteamPageAutoTranslationTool (Steamy Polyglot Pixie)
- A Steam store page auto translation tool
+# SteamPageAutoTranslationTool
 
-This project is intended to be for solo or a small team of indie developers to help with steam page store translations. According to some of the data and reports from the Chris Zukowski & the HTMAG community, having translated store pages/names can help increase visibility of your steam products.
-
-This tool takes one translation json file from steam and converts it automatically to all other store page languages. It uses Google Translator python library.
-
-**Short Tutorial:**
-
-1. Download this zip/repo
-2. Download your translation json files and place them in the "source" directory
-3. Run translateEverything.bat
-4. Upload JSON files
-5. ??? profit
-
-![33](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/009993dc-e5cd-40f0-8cfb-62783a1ab69f)
-
-![44](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/8d1e25b3-adde-4f21-869f-5465c58bd3e7)
-
-![5](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/cdbfd2df-3372-42b3-a6a4-6261095c7593)
+This project is intended to be for solo or a small team of indie developers to help with steam page store translations. According to some of the data and reports from the Chris Zukowski & the HTMAG community, having translated store pages/names can help increase visibility of your steam products. This tool takes one translation json file from steam and converts it automatically to all other store page languages. It uses Google Translator python library.
 
 
-**Full Tutorial:**
+To use this app, if you have python, you can run **pip install -r requirements**  and then run the **run_gui.bat** file
 
-NOTE: I have only used and tested this with NEW projects that have yet to be approved by steam. I'm not sure how to apply changes like this to an existing app via the "Steamworks Admin" page once it has already been approved
+Otherwise, you can download the zip file from the releases section and run the executable
 
-These translations are SUBPAR AT BEST. It uses a python library from google called Translator. See the python code files for more details.
+**How-To:**
 
-***USE TRANSLATED VALUES AT YOUR OWN RISK***
+First download your english translation json file. Save it somewhere you remember
 
-Here's how you can use this tool:
-
-**This project does require you to have python installed**
-
-1. The first step is to navigate to the steam partner portal and go to the Steamworks admin page and Store admin page so we can download your base translation files.
-
-![1](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/64b94049-292f-4a02-9360-37ee995e1317)
-
-download localization file
-![store_name](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/0eaf010a-16b6-4d68-b5e3-74222cdb2cfc)
-
-download localization file
-![1122](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/fd1ad8e9-4432-46c4-a2bc-2710ee9594d8)
+![image](https://github.com/user-attachments/assets/eff7a379-f59a-4e16-8f27-ca6fdfc41cf5)
 
 
+1. Set app name
+2. Set app id
+3. Click "select storepage json" and choose your translation json file you downloaded from steam
+4. Click "process files"
 
-(Ensure your page details are filled out in english first before exporting)
-![22](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/a0cd68d7-5893-4465-acca-73379438b9d6)
-
-
-2. Next step is to copy these files into the "source" folder from this repo.
-3. Then click the translateEverything.bat  
-
-![33](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/009993dc-e5cd-40f0-8cfb-62783a1ab69f)
-(opsec worryiers, all it does is run the python scripts. feel free to examine the bat script and/or run the python files directly)
-
-now you will find the exported files in the "export" folder. it's time to bring them back into steam
-
-4. upload the contents of exports/appname to the Steamworks Admin page
-
-![44](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/8d1e25b3-adde-4f21-869f-5465c58bd3e7)
+![image](https://github.com/user-attachments/assets/3dbda43f-1676-4deb-9742-6487d3a8891a)
 
 
-5. upload the contents of exports/storepage to Store Admin page*
-![5](https://github.com/scott-hf/Steamy-Polyglot-Pixie/assets/224776/cdbfd2df-3372-42b3-a6a4-6261095c7593)
+5. Upload JSON files to steam localization tab
+6. ??? profit
 
-*=Sometimes i've noticed you have to upload these translation files one a time for the store page.
+![upload-json-files-gif3](https://github.com/user-attachments/assets/04c6894c-0e95-4f0c-af6c-7244a0d33759)
 
-And that's it. You're done!
 
 If you want to support me, wishlist and spread the word about my upcoming game ProtoZED, a co-op extraction shooter with colony sim elements, inspired by RimWorld and Project Zomboid.
 https://store.steampowered.com/app/2360880/ProtoZED/
