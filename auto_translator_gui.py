@@ -262,7 +262,7 @@ class TranslationApp(QWidget):
 
         self.setLayout(layout)
         self.setWindowTitle("Scott HF Dunbar's Translation App")
-        self.setGeometry(300, 300, 700, 600)
+        self.setGeometry(300, 300, 700, 660)
         
         # try:
             # Load Steam app images into grid
