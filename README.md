@@ -29,5 +29,8 @@ First download your english translation json file. Save it somewhere you remembe
 ![upload-json-files-gif3](https://github.com/user-attachments/assets/04c6894c-0e95-4f0c-af6c-7244a0d33759)
 
 
-If you want to support me, wishlist , my games! Thanks again! Let me know if you run into any issues. You can find me on the htmag community discord
+If you want to support me, wishlist my games! Thanks again! Let me know if you run into any issues. You can find me on the htmag community discord
 https://store.steampowered.com/franchise/hellofriend
+and/or give me a follow on twitch/youtube!
+https://www.twitch.tv/scott_hf
+https://www.youtube.com/@ScottDunbar
