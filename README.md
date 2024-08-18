@@ -29,5 +29,5 @@ First download your english translation json file. Save it somewhere you remembe
 ![upload-json-files-gif3](https://github.com/user-attachments/assets/04c6894c-0e95-4f0c-af6c-7244a0d33759)
 
 
-If you want to support me, wishlist and spread the word about my upcoming game ProtoZED, a co-op extraction shooter with colony sim elements, inspired by RimWorld and Project Zomboid.
-https://store.steampowered.com/app/2360880/ProtoZED/
+If you want to support me, wishlist , my games! Thanks again! Let me know if you run into any issues. You can find me on the htmag community discord
+https://store.steampowered.com/franchise/hellofriend
