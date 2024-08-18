@@ -19,7 +19,8 @@ First download your english translation json file. Save it somewhere you remembe
 3. Click "select storepage json" and choose your translation json file you downloaded from steam
 4. Click "process files"
 
-![image](https://github.com/user-attachments/assets/3dbda43f-1676-4deb-9742-6487d3a8891a)
+![image](https://github.com/user-attachments/assets/09a10f6a-80ac-4b82-8430-d4369b2144de)
+
 
 
 5. Upload JSON files to steam localization tab
