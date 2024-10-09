@@ -28,12 +28,18 @@ First download your english translation json file. Save it somewhere you remembe
 
 ![upload-json-files-gif3](https://github.com/user-attachments/assets/04c6894c-0e95-4f0c-af6c-7244a0d33759)
 
+a couple of caveats!
+1. all your gif links shouuld be lower case. also there is issues with translating anything with text tags. ie: [b]textinsideboldtag does not get translated[/b]
+       i'll put a fix in for this soon.
+2. if you see a file like this, that's ok! its just unicode characters. you can send it to chatgpt to be sure it translated correctly.
+
+   ![image](https://github.com/user-attachments/assets/985bdf62-9a32-42be-a7ba-f3e840c177ed)
+
+
 
 If you want to support me, wishlist my games! Thanks again! Let me know if you run into any issues. You can find me on the htmag community discord
 
 https://store.steampowered.com/franchise/hellofriend
-
-and/or give me a follow on twitch/youtube!
 
 https://www.twitch.tv/scott_hf
 
